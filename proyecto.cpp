@@ -7,5 +7,9 @@ int main () {
 	cout << "INGRESE NOMBRE y NUM ";
 	cin >> nombre >> num;
 
+	for (int i=0; i<5; i++) {
+	cout << "loop numero " << i+1 << endl;
+	}
+
     return 0;
 }
