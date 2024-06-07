@@ -1,6 +1,6 @@
 
 int main () {
-	int lanzamiento;
+	int lanzamiento, ronda;
 	int num;
 
 	cout << "INGRESE NUM ";
