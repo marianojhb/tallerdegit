@@ -11,5 +11,10 @@ int main () {
 	cout << "loop numero " << i+1 << endl;
 	}
 
+
+
+
+	cout << "cuando termine el for, esto" << endl;
+
     return 0;
 }
