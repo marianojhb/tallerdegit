@@ -1,3 +1,8 @@
+#include "funcionalidadnueva.cpp"
+#include "otraFuncion.cpp"
+
+
+
 int main () {
 
     // ingreso de datos
