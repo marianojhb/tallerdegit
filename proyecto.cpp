@@ -1,10 +1,11 @@
 
 int main () {
+	string nombre;
 	int lanzamiento;
 	int num;
 
-	cout << "INGRESE NUM ";
-	cin >> num;
+	cout << "INGRESE NOMBRE y NUM ";
+	cin >> nombre >> num;
 
     return 0;
 }
